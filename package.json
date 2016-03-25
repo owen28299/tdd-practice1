@@ -1,0 +1,24 @@
+{
+  "name": "tdd-practice1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen28299/tdd-practice1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen28299/tdd-practice1/issues"
+  },
+  "homepage": "https://github.com/owen28299/tdd-practice1#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
